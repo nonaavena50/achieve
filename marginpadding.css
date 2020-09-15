@@ -1,0 +1,36 @@
+/* add body */
+body{
+  background-color: white;
+}
+#content1{
+  background-color: blue;
+  margin-top: 20px;
+  margin-right: 10px;
+  margin-bottom: 20px;
+  margin-left: 10px;
+}
+#content2{
+  background-color: red;
+  margin: 20px 10px 20px 10px;
+}
+#content3{
+  background-color: yellow;
+  margin: 20px 10px
+}
+#content4{
+  background-color: black;
+  margin: 20px;
+  color: white;
+}
+h1{
+  border: 3px solid  #000000;
+  padding: 20px;
+  margin: 30px 420px;
+  background-color: #87CEEB;
+}
+#DIVE{
+  border: 3px  solid #000000;
+  padding: 30px;
+  margin: 10px 50px;
+  background-color: #F4A460;
+}
