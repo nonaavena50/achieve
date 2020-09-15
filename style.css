@@ -1,3 +1,19 @@
 body{
   background-color: rgba(0, 0, 255, 0.3);
 }
+h1{
+  color: #f9f9f9;
+  font-size: 40px;
+  font-style: oblique;
+}
+
+/*Define the style for paragraph1 */
+#paragraph1{
+  font-size: 30px;
+}
+/*Define the style for paragraph2 */
+#paragraph2{
+  font-size: 18px;
+  color: : #f9f9f9;
+  background-color: white;
+}
